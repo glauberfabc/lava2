@@ -1,7 +1,7 @@
 {
   "name": "vite-react-typescript-starter",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -14,12 +14,10 @@
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-<<<<<<< HEAD
+
     "react-router-dom": "^6.22.3",
     "tesseract.js": "^5.0.5"
-=======
     "react-router-dom": "^6.22.3"
->>>>>>> aa06476fbe3b49b1283a030f8113703d81409179
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
